@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Lexend:300,800");
-@import url("all.min.css");
+@import url("all.css");
 
 /*
 	Aerial by HTML5 UP
@@ -108,10 +108,10 @@ input, select, textarea {
 	}
 
 	a {
-		-moz-transition: border-color 0.2s ease-in-out;
-		-webkit-transition: border-color 0.2s ease-in-out;
-		-ms-transition: border-color 0.2s ease-in-out;
-		transition: border-color 0.2s ease-in-out;
+		-moz-transition: border-color 0.1s ease-in-out;
+		-webkit-transition: border-color 0.1s ease-in-out;
+		-ms-transition: border-color 0.1s ease-in-out;
+		transition: border-color 0.1s ease-in-out;
 		border-bottom: dotted 1px;
 		color: inherit;
 		outline: 0;
@@ -138,7 +138,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			font-family: 'Font Awesome 6 Free';
 			font-weight: 400;
 		}
 
@@ -151,7 +151,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			font-family: 'Font Awesome 6 Brands';
 		}
 
 /* Wrapper */
@@ -197,10 +197,10 @@ input, select, textarea {
 	}
 
 	#wrapper {
-		-moz-animation: wrapper 3s forwards;
-		-webkit-animation: wrapper 3s forwards;
-		-ms-animation: wrapper 3s forwards;
-		animation: wrapper 3s forwards;
+		-moz-animation: wrapper 1s forwards;
+		-webkit-animation: wrapper 1s forwards;
+		-ms-animation: wrapper 1s forwards;
+		animation: wrapper 1s forwards;
 		height: 100%;
 		left: 0;
 		opacity: 0;
