@@ -1,5 +1,5 @@
-@import url("https://fonts.googleapis.com/css?family=Lexend:300,800");
-@import url("all.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,900");
+@import url("all.min.css");
 
 /*
 	Aerial by HTML5 UP
@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #fff;
-		font-family: 'Lexend', sans-serif;
+		font-family: 'Roboto', sans-serif;
 		font-size: 15pt;
 		font-weight: 300 !important;
 		letter-spacing: -0.025em;
